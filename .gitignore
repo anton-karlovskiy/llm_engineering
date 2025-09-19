@@ -192,3 +192,4 @@ scraper_cache/
 
 # WandB local sync data.
 wandb/
+/condaenv.1v15z1n_.requirements.txt
